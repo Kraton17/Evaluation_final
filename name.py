@@ -1,2 +1,2 @@
 name = "Your Name"
-print("My name is", man)
+print("My name is", abcd)
